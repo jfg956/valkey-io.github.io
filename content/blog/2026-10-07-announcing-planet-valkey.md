@@ -6,6 +6,9 @@ authors = ["jfg956"]
 
 [taxonomies]
 blog_type = ["Announcements"]
+
+[extra]
+featured = true
 +++
 
 TL;DR: [Planet Valkey](https://planet.valkey.io/) replaces [Planet for the Valkey Community](https://valkey-demo.oursqlcommunity.org/).
